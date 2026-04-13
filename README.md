@@ -1,16 +1,80 @@
-# React + Vite
+# 🚀 React + Vite Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Vite](https://img.shields.io/badge/Vite-Frontend-purple?logo=vite)
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Live-success)
+
+🌐 **Live Demo:**  
+👉 https://tafl-project-lake.vercel.app/
+
+---
+
+## 📌 Overview
+
+This project is built using **React + Vite**, providing a fast and modern frontend development setup with Hot Module Replacement (HMR) and ESLint integration.
+
+---
+
+## ⚡ Features
+
+- ⚛️ React 18 setup
+- ⚡ Lightning-fast Vite build tool
+- 🔁 Hot Module Replacement (HMR)
+- 🧹 ESLint configured
+- 🚀 Deployed on Vercel
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React
+- **Build Tool:** Vite
+- **Linting:** ESLint
+
+---
+
+## 📦 Available Plugins
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) → Uses Oxc  
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) → Uses SWC  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧠 React Compiler
 
-## Expanding the ESLint configuration
+The React Compiler is not enabled in this template due to its impact on development and build performance.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+To enable it, refer to:  
+https://react.dev/learn/react-compiler/installation
+
+---
+
+## 📏 ESLint Configuration
+
+For production-grade apps, it's recommended to:
+
+- Use **TypeScript**
+- Enable **type-aware lint rules**
+
+Check the official TS template:  
+https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repo
+git clone <your-repo-link>
+
+# Navigate into project
+cd <project-folder>
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
